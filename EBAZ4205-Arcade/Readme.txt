@@ -1,6 +1,3 @@
-# Imprtant Notes
-![Model](EBAZ4205-Arcade.jpg)
-
 EBAZ-4205 Arcade PCB for the EBAZ-4205 ZYNQ 7010 FPGA Bitcoin Miner control Board. Pinballwiz.org 2026
 
 Notes:
