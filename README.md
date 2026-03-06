@@ -2,7 +2,8 @@
 ![Model](EBAZ4205-Arcade.jpg)
 ![Model](EBAZ4205_Arcade.jpg)
 
-This project has now been updated and replaced by the ZYNQ Arcade Repo here:
+This project has now been updated and replaced by the ZYNQ Arcade Project here:  
+
 https://github.com/pinballwizz/ZYNQ-Arcade  
 
 EBAZ4205 Arcade PCB for the EBAZ4205 ZYNQ 7010 FPGA Board.  
